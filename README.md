@@ -117,6 +117,6 @@ This project is licensed under the [Apache License 2.0](LICENSE) - see the LICEN
 
 <div align="center">
 
-**Made with ❤️ by Dzivilord**
-
+**HOW IT GOING**
+![alt text](result.png)
 </div>
